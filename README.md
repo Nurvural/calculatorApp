@@ -1,2 +1,2 @@
 # calculatorApp
-a simple calculatorr
+a simple calculator
